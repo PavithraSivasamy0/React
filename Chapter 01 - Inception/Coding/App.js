@@ -7,6 +7,9 @@
 
 //using react
 
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 const heading1 = React.createElement("h1", {}, "Hi, I'm h1 from React!");
 const heading2 = React.createElement("h2", {}, "I'm h2 from React!");
 
