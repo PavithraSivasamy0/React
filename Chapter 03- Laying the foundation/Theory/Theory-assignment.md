@@ -38,7 +38,7 @@ JSX code ===Babel===> React.createElement() object ===ReactDOM===> HTMLElement(g
 
 - Composing / calling one component into another component is called component composition (composing two components inside one)
 
-## 7. {TitleComponent} vs <TitleComponent/> vs <TitleComponent></TitleComponent> in JSX.
+## 7. {TitleComponent} vs `<TitleComponent/> vs <TitleComponent></TitleComponent> `in JSX.
 
 - {TitleComponent} - here TitleComponent is a js expression or a variable
-- <TitleComponent/> vs <TitleComponent></TitleComponent> - both are equivalent only difference is <TitleComponent></TitleComponent> is used when we have child component.
+- - <TitleComponent/> vs <TitleComponent></TitleComponent> \* - both are equivalent only difference is <TitleComponent></TitleComponent> is used when we have child component.
